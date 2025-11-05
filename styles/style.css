@@ -1,4 +1,4 @@
-@import "/styles/variables.css";
+@import "./variables.css";
 
 body {
   margin: 0;
@@ -8,7 +8,7 @@ body {
 
 @font-face {
   font-family: "BebasNeue";
-  src: url('/fonts/BebasNeue-Regular.ttf');
+  src: url('./fonts/BebasNeue-Regular.ttf');
   font-weight: normal;
 }
 
